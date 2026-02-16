@@ -1,0 +1,6 @@
+*.stl
+*.obj
+*.gcode
+*.3mf
+*.bak
+*.autosave
